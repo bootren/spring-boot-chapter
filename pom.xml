@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yuqiyu</groupId>
-    <artifactId>root</artifactId>
+    <artifactId>chapter-root</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
